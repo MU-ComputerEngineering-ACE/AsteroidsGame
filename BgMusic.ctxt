@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ newsong()
+comment1.params=
+comment1.target=void\ play()
+comment2.params=
+comment2.target=void\ stop()
+comment3.params=
+comment3.target=void\ setVolume()
+numComments=4

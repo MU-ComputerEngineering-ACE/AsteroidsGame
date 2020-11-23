@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=score
+comment0.target=AsteroidCredits(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ AsteroidCredits.\r\n\ \r\n
+comment1.params=score
+comment1.target=void\ putScore(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
